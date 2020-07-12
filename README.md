@@ -9,3 +9,4 @@
 #Visão geral do conteudo: os arquivos foram divididos em 5 arquivos .c, 4 do tipo .h e um Makefile. O arquivo main.c contem as opcoes de jogo, interface.c contem funcoes de interacao com o usuario e o loop do jogo, dinamica.c contempla funcoes de mecanica do jogo, tabuleiro.c tem as funcoes de redimensionamento do tabuleiro, printar tabuleiro, alocar tabuleiro, etc e pecas contem funcoes para gerar, randomizar, gerenciar etc as pecas do jogo.
 
 # Qwirkle_Trab_5
+# Trab_5_ICC
